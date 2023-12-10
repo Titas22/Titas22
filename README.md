@@ -42,13 +42,13 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=GitHub&logoColor=white)](https://github.com/)
 [![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-5C2D91?style=flat&logo=Visual-Studio-Code&logoColor=white)](https://visualstudio.microsoft.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=SQLite&logoColor=white)](https://sqlite.org/)
+[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 <!--[![AzureDevOps](https://img.shields.io/badge/-Azure%20DevOps-0078D7?style=flat&logo=Azure-DevOps&logoColor=white)](https://azure.microsoft.com/en-us/products/devops/server/)-->
 
 <br/>
   
 ### Might Learn Next
 [![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat&logo=surrealdb&logoColor=white)](https://surrealdb.com/)
-[![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white)](https://plotly.com/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
