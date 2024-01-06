@@ -43,7 +43,7 @@
   
 ### Might Learn Next
 [![SurrealDB](https://img.shields.io/badge/SurrealDB-FF00A0?style=flat&logo=surrealdb&logoColor=white)](https://surrealdb.com/)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flate&logo=postgresql&logoColor=white)
+[![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flate&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1C?style=flat&logo=javascript&logoColor=black)](https://www.javascript.com/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)](https://www.typescriptlang.org/)
 [![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white)](https://www.rust-lang.org/)
